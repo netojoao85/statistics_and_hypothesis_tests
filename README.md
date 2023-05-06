@@ -1,1 +1,1 @@
-# statistics_and_hypothesis_tests
+# Statistics & Hypothesies testing
